@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.bofa</groupId>
-    <artifactId>pmtods-kafka-lib</artifactId>
+    <artifactId>pmtodskafkalib</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>pmtods-kafka-lib</name>
+    <name>pmtodskafkalib</name>
     <description>Library for SOR applications that assists in writing to Kafka Topic.</description>
     <properties>
         <java.version>11</java.version>

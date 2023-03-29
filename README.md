@@ -6,5 +6,3 @@ Uses Java 11, Spring Boot v2.7.0 and Jackson v2.14.2
 ## Prerequisites
 1. Java JDK 11
 2. Maven
-
-

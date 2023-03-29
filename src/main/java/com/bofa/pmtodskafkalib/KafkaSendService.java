@@ -1,4 +1,4 @@
-package com.example.kafkawritedemo;
+package com.bofa.pmtodskafkalib;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;
